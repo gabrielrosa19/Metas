@@ -1,6 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
 body{
   background: linear-gradient(red,blue);
+ font-family:kode mono;
+}
+h1{
+  font-size: 35px;
+}
 
-  font-family:kode mono;
+h2{
+  font-size: 30px;
 }
