@@ -1,25 +1,25 @@
-@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
 body{
-    background: radial-gradient(#0044ff,#ff0000,rgb(255, 255, 255),white);
-    font-family: Bebas Neue;
-  }
-  
-  h1{
-    color: #ff0000;
-    font-size: 50px;
-    font-family: Fjalla One;
-  }
-  
-  h2{
-    color: #eeff00;
-    font-size: 42px;
-  }
-  
-  h3{
-    font-size: 35px;
-  }
-  
-  h4{
-    font-size: 30px;
-  }
-  
+  background: radial-gradient(#0004ff,#ff0000,#0000ff,white);
+  font-family: Kode Mono;
+
+}
+
+h1{
+  color: #006eff;
+  font-size: 50px;
+  font-family: Fjalla One;
+}
+
+h2{
+  color: #e5ff00;
+  font-size: 42px;
+}
+
+h3{
+  font-size: 35px;
+}
+
+h4{
+  font-size: 30px;
+}
