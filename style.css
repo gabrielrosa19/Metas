@@ -3,10 +3,10 @@ body{
   background: linear-gradient(red,blue);
  font-family:kode mono;
 }
-h1{
+h3{
   font-size: 35px;
 }
 
-h2{
+h4{
   font-size: 30px;
 }
